@@ -1,2 +1,2 @@
 # go-lang-assignments
-Small assignments written in go language to learn concurrency
+Small assignments written in go language
