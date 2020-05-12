@@ -25,6 +25,7 @@ func main() {
 		case <-c:
 			continue
 		case <-time.After(time.Second * 5):
+			fmt.Println("Screen timeout")
 			sleep = true
 		}
 	}
